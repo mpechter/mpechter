@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mpechter
 - I'm interested in Data!
-- How to reach me mpechter@gmail.com
 
 
 <!---
